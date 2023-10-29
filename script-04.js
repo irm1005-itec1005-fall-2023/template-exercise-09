@@ -4,6 +4,7 @@
  * some code in functions that lets
  *
  * Follow the instructions below
+ * Check the console log for outputs
  *
  */
 
@@ -111,7 +112,7 @@ function calculateAverage(randomNumbers) {
 
 // CONGRATULATIONS - THIS CONCLUDES STEP 04
 // THIS ONE WAS A DIFFICULT ONE - GIVE YOURSELF A PAT ON THE BACK
-
+// CHECK THE CONSOLE LOG FOR OUTPUTS
 
 /*
 
