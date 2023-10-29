@@ -13,7 +13,7 @@
 ## TLDR
 
 1. Let's practice JavaScript.
-2. You will just be updating the `script-XX.js` files for this tutorial exercise (instructions provided inside the file).
+2. You will just be updating the `script-XX.js` files for this tutorial exercise (instructions provided inside each file).
 3. Modify your files, and commit the changes back to your repo.
 4. Turn on GitHub Pages.
 5. If you would like feedback or help submit a comment in the [Tutorial 09 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/14) and share a link to your index page.
@@ -60,6 +60,7 @@ Refer to this [discussion post](https://github.com/orgs/irm1005-itec1005-fall-20
 
 ### JavaScript
 
+- [MDN JS Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
